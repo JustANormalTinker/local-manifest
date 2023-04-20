@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="vendor/xiaomi/whyred" name="Darkstar085/vendor_xiaomi_whyred" remote="github" revision="thirteen" />
+  <project path="vendor/xiaomi/sdm660-common/" name="Darkstar085/vendor_xiaomi_whyred-common" remote="github" revision="thirteen" />
+</maufest>
