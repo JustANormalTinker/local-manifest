@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="hardware/lineage/compat" />
+  <remove-project name="LineageOS/android_hardware_lineage_compat" />
   <project path="device/xiaomi/sdm660-common/" name="Darkstar085/device_xiaomi_whyred-common" remote="github" revision="thirteen"  />
   <project path="device/xiaomi/whyred" name="LineageOS/android_device_xiaomi_sdm660-common" remote="github" revision="lineage-20" />
   <project path="kernel/xiaomi/whyred" name="LineageOS/android_kernel_xiaomi_sdm660" remote="github" revision="lineage-20" />
